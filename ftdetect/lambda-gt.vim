@@ -1,2 +1,1 @@
-autocmd BufNewFile,BufRead *.lgt set filetype=lamGT
-
+autocmd BufNewFile,BufRead *.lgt set filetype=lambda-gt
