@@ -1,6 +1,6 @@
 # lambda-gt.vim
 
-A vim plugin for the Lambda GT language
+A vim plugin for the Lambda GT language.
 
 ![image](docs/demo2.png)
 
